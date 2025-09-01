@@ -1,4 +1,3 @@
-[After Repair Value Determination.md](https://github.com/user-attachments/files/22080842/After.Repair.Value.Determination.md)
 | Traditional ARV Methods          | Homesage.ai AI-Powered ARV                |
 |----------------------------------|-------------------------------------------|
 | Based only on comparable sales   | Incorporates physical property condition  |
