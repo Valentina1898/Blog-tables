@@ -1,7 +1,8 @@
-| Feature              | Homesage.ai          | Traditional SaaS  | Real Estate Platforms  |
+| **Feature**              | **Homesage.ai**          | **Traditional SaaS**  | **Real Estate Platforms**  |
 |----------------------|----------------------|-------------------|------------------------|
 | Commission Rate      | Up to 40%            | 10-30%            | 5-15%                  |
 | Commission Duration  | 12 months recurring  | 6-12 months       | One-time payment       |
 | Cookie Duration      | 60 days              | 30 days           | 14-30 days             |
 | Approval Process     | None required        | 1-2 weeks         | 2-4 weeks              |
 | Payment Threshold    | $150                 | $100-$500         | $50-$200               |
+
