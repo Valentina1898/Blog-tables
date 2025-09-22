@@ -1,5 +1,6 @@
-| Tool        | Cost Accuracy | ROI Forecast | API/Integration | User Groups                                        | Extra Features                               |
+| **Tool**        | **Cost Accuracy** | **ROI Forecast** | **API/Integration** | **User Groups**                                        | **Extra Features**                               |
 |-------------|---------------|--------------|-----------------|----------------------------------------------------|----------------------------------------------|
-| Homesage.ai | High          | Yes          | API/Online      | Agents, Contractors, Investors, Lenders, Insurance | Price Flexibility, TLC Score, Renovation ROI |
-| Handoff AI  | High          | No           | App/Mobile      | Contractors, Remodelers                            | Voice/photo input, CRM tools                 |
-| Xactimate   | Highest       | No           | Desktop/Web     | Builders, Insurers, Adjusters                      | Claims handling, zip code data               |
+| **Homesage.ai** | High          | Yes          | API/Online      | Agents, Contractors, Investors, Lenders, Insurance | Price Flexibility, TLC Score, Renovation ROI |
+| **Handoff AI**  | High          | No           | App/Mobile      | Contractors, Remodelers                            | Voice/photo input, CRM tools                 |
+| **Xactimate**   | Highest       | No           | Desktop/Web     | Builders, Insurers, Adjusters                      | Claims handling, zip code data               |
+
