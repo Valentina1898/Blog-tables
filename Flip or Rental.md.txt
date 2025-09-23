@@ -1,0 +1,10 @@
+| Factor                       | Flip Investment                                | Rental Investment                           |
+|------------------------------|------------------------------------------------|---------------------------------------------|
+| Initial Capital Requirement  | High (purchase + renovation + carrying costs)  | Moderate (purchase + minimal improvements)  |
+| Time to Profit               | 3-12 months                                    | Immediate monthly income                    |
+| Risk Level                   | High (market timing dependent)                 | Moderate (steady income stream)             |
+| Management Intensity         | High during renovation period                  | Ongoing but manageable                      |
+| Tax Implications             | Short-term capital gains                       | Depreciation benefits + rental income       |
+| Market Dependency            | High (sensitive to market timing)              | Moderate (rental demand stability)          |
+| Profit Potential             | High returns in short timeframe                | Steady returns plus appreciation            |
+| Exit Flexibility             | Single exit strategy                           | Multiple exit options                       |
