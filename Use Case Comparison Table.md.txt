@@ -1,0 +1,8 @@
+| Use Case                   | Homesage.ai | ATTOM Data | AirDNA           |
+|----------------------------|-------------|------------|------------------|
+| Fix & Flip Analysis        | Excellent   | Good       | Poor             |
+| Rental Property Investment | Excellent   | Good       | Excellent (STR)  |
+| Market Research            | Good        | Excellent  | Good (STR only)  |
+| Property Valuation         | Excellent   | Excellent  | Good (STR focus) |
+| Risk Assessment            | Good        | Excellent  | Good             |
+| Competitive Analysis       | Good        | Good       | Excellent (STR)  |
