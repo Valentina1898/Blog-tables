@@ -1,0 +1,7 @@
+| Name           | Commission                        | Cookie Duration |
+|----------------|-----------------------------------|-----------------|
+| Homesage.ai    | Up to 40% recurring for 12 months | 60 days         |
+| Semrush        | $50-$350 per sale                 | 120 days        |
+| ActiveCampaign | Average $1,300 per referral       | 90 days         |
+| NordVPN        | 40%-100%                          | 30 days         |
+| Lemlist        | 25% recurring                     | Not specified   |
