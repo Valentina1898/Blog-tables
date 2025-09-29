@@ -1,0 +1,5 @@
+| Provider    | Starting Price                        | Best For                | Key Strength                                   | Service Model      |
+|-------------|---------------------------------------|-------------------------|------------------------------------------------|--------------------|
+| Homesage.ai | $300+; Custom pricing by company size | Custom AI Impementation | Tailored AI solutions and seamless integration | Custom assessment  |
+| ATTOM Data  | $850/month                            | Enterprise Data         | Comprehensive property database                | API volume-based   |
+| AirDNA      |  Custom enterprise pricing            | Short-term Rentals      | Vacation rental optimization                   | Subscription-based |
