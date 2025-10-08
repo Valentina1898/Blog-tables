@@ -1,0 +1,8 @@
+| Feature          | Homesage.ai                                            | Top Producer                            | Voiceflow                                  | Ylopo                                       |
+|------------------|--------------------------------------------------------|-----------------------------------------|--------------------------------------------|---------------------------------------------|
+| Best For         | Property analysis and investment decisions             | Lead management and area farming        | Custom AI agent building                   | Lead generation and marketing               |
+| Key Strength     | Detailed property intelligence and ROI calculations    | Smart farming and automated follow-up   | Complete customization without coding      | Social media advertising and lead nurturing |
+| Ideal User       | Investors, agents, lenders, contractors, IT developers | Established agents with large databases | Tech-savvy agents wanting custom solutions | Marketing-focused agents and teams          |
+| Setup Difficulty | Easy (API integration)                                 | Easy                                    | Moderate                                   | Easy                                        |
+| Pricing          | API-based                                              | Starts at $179/month                    | Variable                                   | Variable                                    |
+| Unique Feature   | Full property investment reports                       | AI Author for message writing           | Build voice and chat agents                | Re-engages 25%+ of old leads                |
