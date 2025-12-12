@@ -1,0 +1,7 @@
+| AI Capability               | What It Does                                                     | Investor Benefit                                          |
+|-----------------------------|------------------------------------------------------------------|-----------------------------------------------------------|
+| Computer Vision             | Analyzes property images to detect condition issues              | Remote property evaluation without immediate site visits  |
+| Automated Valuation Models  | Calculates property values using a larger number of comparables  | Instant high valuation accuracy                           |
+| Predictive Analytics        | Forecasts property appreciation and market trends                | Identify emerging markets before price spikes             |
+| Financial Modeling          | Calculates ROI, cash flow, and investment returns                | Evaluate deals in seconds instead of hours                |
+| Lead Scoring                | Identifies motivated sellers and off-market opportunities        | Access deals before public listings                       |
